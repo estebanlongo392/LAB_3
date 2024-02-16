@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\Debug\Lab_3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab_3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab_3.map</FILE>
+  <FILE>Lab_3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>24</LINE></MAIN>
+  <INT_PC><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>147</LINE></INT_PC>
+  <INT_TIMER0><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>196</LINE></INT_TIMER0>
+  <SETUP><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>35</LINE></SETUP>
+  <INT_T0><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>180</LINE></INT_T0>
+  <LOOP><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>76</LINE></LOOP>
+  <DECE><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>129</LINE></DECE>
+  <UNI><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>133</LINE></UNI>
+  <DELAY><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>109</LINE></DELAY>
+  <TABLA7SEG><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>213</LINE></TABLA7SEG>
+  <REST><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>138</LINE></REST>
+  <DELAY1><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>111</LINE></DELAY1>
+  <DELAY2><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>115</LINE></DELAY2>
+  <DELAY3><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>119</LINE></DELAY3>
+  <DELAY4><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>123</LINE></DELAY4>
+  <BTTON1><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>163</LINE></BTTON1>
+  <SALIR><FILE>C:\Users\esteb\Documents\Atmel Studio\7.0\Lab_3\Lab_3\main.asm</FILE><LINE>171</LINE></SALIR>
+ </LABELS>
+</ASSEMBLER_INFO>
